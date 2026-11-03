@@ -1,0 +1,67 @@
+return {
+  extends = "pineapple-light",
+  id = "pineapple",
+  name = "Pineapple",
+  description = "Golden yellow and brown on cream.",
+
+  accent = "#D99A1E",
+  accentForeground = colors.black,
+
+  menuBackground = colors.brown,
+  menuForeground = colors.white,
+  menuMuted = colors.yellow,
+  menuActiveBackground = "#D99A1E",
+  menuActiveForeground = colors.black,
+
+  sidebarBackground = "#F3E7C2",
+  sidebarSelection = "#D99A1E",
+  sidebarSelectionForeground = colors.black,
+
+  tabBackground = "#F3E7C2",
+  tabForeground = colors.brown,
+  tabActiveBackground = "#D99A1E",
+  tabActiveForeground = colors.black,
+  tabDirty = colors.red,
+
+  dividerForeground = colors.yellow,
+  panelHeaderBackground = "#F3E7C2",
+  panelHeaderForeground = colors.brown,
+  panelBackground = "#F3E7C2",
+  panelForeground = colors.black,
+
+  handleBackground = colors.brown,
+  handleForeground = colors.yellow,
+  statusBackground = colors.brown,
+  statusForeground = colors.white,
+
+  dialogTitleBackground = "#D99A1E",
+  dialogTitleForeground = colors.black,
+  buttonActiveBackground = "#D99A1E",
+  buttonActiveForeground = colors.black,
+  inputBackground = "#F3E7C2",
+  fieldBackground = "#F3E7C2",
+  listSelectionBackground = "#D99A1E",
+  listSelectionForeground = colors.black,
+
+  currentLineBackground = "#F3E7C2",
+  selectionBackground = colors.yellow,
+  selectionForeground = colors.black,
+  scrollbarTrack = "#F3E7C2",
+  scrollbarThumb = "#D99A1E",
+  findBackground = "#F3E7C2",
+  findMatchBackground = colors.orange,
+  matchBackground = colors.yellow,
+  matchForeground = colors.black,
+
+  syntax = {
+    keyword = colors.brown,
+    value = colors.purple,
+    number = colors.orange,
+    string = colors.green,
+    comment = colors.lightGray,
+    operator = colors.gray,
+    ident = colors.black,
+    global = colors.cyan,
+    func = colors.black,
+  },
+}

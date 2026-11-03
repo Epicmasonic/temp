@@ -1,0 +1,14 @@
+{
+  BackgroundColour = "white",
+  Children = {
+    {
+      Type = "TextBox",
+      Name = "TextB",
+      X = 6,
+      Y = 7,
+      Width = 12,
+      Placeholder = "Text",
+      TextColour = "magenta"
+    }
+  }
+}
