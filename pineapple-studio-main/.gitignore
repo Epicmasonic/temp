@@ -1,8 +1,0 @@
-# Studio's per-project editor state (open files, layout)
-.pineapple/
-
-# CraftOS-PC configuration, when the repository lives inside a CraftOS-PC computer folder
-config/
-
-# macOS
-.DS_Store
